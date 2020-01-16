@@ -2,7 +2,7 @@
 layout: post
 title:  "Why MONEY FREEDOM?"
 categories: [ Introduction ]
-img: 42.png
+img: 37.jpg
 tags: [sticky]
 ---
 
